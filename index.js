@@ -31,7 +31,9 @@ function makeInt(a) {
   return(a.toString());
 }
 
-
+function makeInc(n) {
+  
+}
 
 function preserveDecimal(n) {
   return(2.222);

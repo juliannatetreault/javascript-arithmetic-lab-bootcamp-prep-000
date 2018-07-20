@@ -1,4 +1,4 @@
-var a = 
+var a = n
 var b = n
 
 function add(a, b) {

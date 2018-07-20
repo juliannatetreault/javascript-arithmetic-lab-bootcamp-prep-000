@@ -31,8 +31,8 @@ function makeInt(a) {
   return(a.toString());
 }
 
-function makeInc(n) {
-  
+function makeInt(n) {
+  return (parseInt())
 }
 
 function preserveDecimal(n) {

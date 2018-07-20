@@ -39,4 +39,6 @@ function preserveDecimal(n) {
   return(2.222);
 }
 
-function 
+function preserveDecimal(n) {
+  return (parseFloat(n))
+}

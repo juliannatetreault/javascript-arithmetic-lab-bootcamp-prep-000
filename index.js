@@ -31,7 +31,7 @@ function makeInt(a) {
   return(a.toString())
 }
 
-return (parseInt('0x2328', 0))
+(parseInt('0x2328', 0))
 
 parseFloat('sldkjflksjf', n)
 

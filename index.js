@@ -19,11 +19,11 @@ function divide(a, b) {
   return(a /= b)
 }
 
-function inc(a) {
+function inc(n) {
   return(a + 1)
 }
 
-function dec(a) {
+function dec(n) {
   return(a - 1)
 }
 

@@ -31,9 +31,7 @@ function makeInt(a) {
   return(a.toString())
 }
 
-(parseInt('0x2328', 0))
 
-parseFloat('sldkjflksjf', n)
 
 function preserveDecimal(n) {
   return(2.222)

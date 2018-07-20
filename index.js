@@ -32,7 +32,7 @@ function makeInt(a) {
 }
 
 function makeInt(n) {
-return ('0x2328')
+return (parseInt('0x2328'))
 }
 
 parseFloat('sldkjflksjf', 10)
